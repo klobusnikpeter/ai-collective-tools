@@ -768,6 +768,8 @@ Use these hashtags in search to filter out the tools
 
 ## Other Resources
 
+- [Drive AI](https://driveapp.ai/) - AI vehicle assistant predicting routes, providing real-time alerts, and ensuring safer, smoother rides. `paid`
+
 **[⬆️ Back to Top](#table-of-contents)**
 
 # License
